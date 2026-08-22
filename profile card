@@ -1,0 +1,36 @@
+# 👤 User Profile Card
+
+A modern and responsive **User Profile Card** built using **HTML, CSS, and JavaScript**. This project features a clean social-media-inspired design with an interactive Follow/Following button, profile statistics, social links, and a message button.
+
+## ✨ Features
+
+* 🎨 Modern gradient UI
+* 👤 Profile picture and user information
+* 📊 Followers, following, and project statistics
+* ❤️ Interactive Follow/Following button
+* 💬 Interactive Message button
+* 🔗 Social media links
+* 🖱️ Smooth hover effects and animations
+* 📱 Responsive design
+* ⚡ Built with pure HTML, CSS, and JavaScript
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+## 🚀 How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Explore the interactive profile card.
+
+## 🎯 Purpose
+
+This project was created to practice **frontend web development, responsive UI design, CSS styling, and JavaScript DOM manipulation**.
+
+Feel free to customize the profile picture, username, bio, statistics, colors, and social media links.
+
+#HTML #CSS #JavaScript #WebDevelopment #Frontend #UI #GitHub
